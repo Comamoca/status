@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Status page for the Comamoca website"
-  introMessage: Note: The status regarding Ablaze **is unofficial.** For official status, please see [here](https://status.ablaze.one).
+  introMessage: "Note: The status regarding Ablaze **is unofficial.** For official status, please see [here](https://status.ablaze.one)."
   navbar:
     - title: Status
       href: /
