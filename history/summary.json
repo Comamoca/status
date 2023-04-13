@@ -40,17 +40,19 @@
     "url": "https://emoji2svg.deno.dev",
     "icon": "https://icons.duckduckgo.com/ip3/emoji2svg.deno.dev.ico",
     "slug": "emoji2svg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 704,
-    "timeWeek": 300,
-    "timeMonth": 241,
-    "timeYear": 241,
-    "dailyMinutesDown": {}
+    "time": 246,
+    "timeDay": 542,
+    "timeWeek": 310,
+    "timeMonth": 246,
+    "timeYear": 246,
+    "dailyMinutesDown": {
+      "2023-04-13": 0
+    }
   }
 ]
