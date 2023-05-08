@@ -60,7 +60,7 @@
     "url": "https://comamoca.dev",
     "icon": "https://icons.duckduckgo.com/ip3/comamoca.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 133,
     "timeMonth": 145,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-08": 0
+    }
   }
 ]
