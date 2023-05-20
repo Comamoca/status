@@ -22,7 +22,7 @@
     "url": "https://blog.ablaze.one",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ablaze.one.ico",
     "slug": "ablaze-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 998,
     "timeMonth": 1032,
     "timeYear": 1083,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-20": 0
+    }
   },
   {
     "name": "emoji2svg",
@@ -61,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/comamoca.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "94.58%",
+    "uptime": "94.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.58%",
-    "uptimeYear": "94.58%",
+    "uptimeMonth": "94.71%",
+    "uptimeYear": "94.71%",
     "time": 147,
     "timeDay": 98,
     "timeWeek": 130,
