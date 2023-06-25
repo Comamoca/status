@@ -31,7 +31,7 @@
     "time": 1089,
     "timeDay": 806,
     "timeWeek": 933,
-    "timeMonth": 1108,
+    "timeMonth": 1109,
     "timeYear": 1089,
     "dailyMinutesDown": {
       "2023-05-31": 16,
@@ -43,7 +43,7 @@
     "url": "https://emoji2svg.deno.dev",
     "icon": "https://icons.duckduckgo.com/ip3/emoji2svg.deno.dev.ico",
     "slug": "emoji2svg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,6 +55,7 @@
     "timeMonth": 268,
     "timeYear": 334,
     "dailyMinutesDown": {
+      "2023-06-25": 0,
       "2023-05-23": 19,
       "2023-04-13": 70
     }
@@ -65,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/comamoca.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "96.45%",
+    "uptime": "96.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.41%",
-    "uptimeYear": "96.45%",
+    "uptimeYear": "96.47%",
     "time": 148,
     "timeDay": 167,
     "timeWeek": 156,
