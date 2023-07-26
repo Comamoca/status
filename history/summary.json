@@ -4,9 +4,9 @@
     "url": "https://ablaze.one",
     "icon": "https://icons.duckduckgo.com/ip3/ablaze.one.ico",
     "slug": "ablaze",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 187,
     "timeMonth": 189,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "Ablaze Blog",
@@ -66,11 +68,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/comamoca.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.63%",
+    "uptimeYear": "97.64%",
     "time": 148,
     "timeDay": 123,
     "timeWeek": 145,
