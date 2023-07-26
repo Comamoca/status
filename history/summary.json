@@ -4,19 +4,19 @@
     "url": "https://ablaze.one",
     "icon": "https://icons.duckduckgo.com/ip3/ablaze.one.ico",
     "slug": "ablaze",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 135,
-    "timeWeek": 180,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 187,
+    "timeDay": 128,
+    "timeWeek": 172,
+    "timeMonth": 185,
+    "timeYear": 187,
     "dailyMinutesDown": {
-      "2023-07-26": 9
+      "2023-07-26": 25
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "ablaze-blog",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1123,
     "timeDay": 3611,
@@ -36,7 +36,6 @@
     "timeMonth": 1242,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2023-07-26": 8,
       "2023-05-31": 16,
       "2023-05-20": 56
     }
