@@ -25,7 +25,7 @@
     "url": "https://blog.ablaze.one",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ablaze.one.ico",
     "slug": "ablaze-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 1212,
     "timeYear": 1198,
     "dailyMinutesDown": {
+      "2023-12-02": 0,
       "2023-11-08": 18,
       "2023-05-31": 16,
       "2023-05-20": 56
@@ -54,7 +55,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 450,
-    "timeDay": 251,
+    "timeDay": 216,
     "timeWeek": 216,
     "timeMonth": 964,
     "timeYear": 450,
