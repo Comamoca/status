@@ -5,17 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/ablaze.one.ico",
     "slug": "ablaze",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 144,
-    "timeWeek": 159,
-    "timeMonth": 190,
-    "timeYear": 193,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.99%",
+    "time": 198,
+    "timeDay": 136,
+    "timeWeek": 182,
+    "timeMonth": 189,
+    "timeYear": 198,
+    "dailyMinutesDown": {
+      "2023-10-30": 20,
+      "2023-07-26": 25
+    }
   },
   {
     "name": "Ablaze Blog",
@@ -23,17 +26,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.ablaze.one.ico",
     "slug": "ablaze-blog",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1111,
-    "timeDay": 824,
-    "timeWeek": 1053,
-    "timeMonth": 1139,
-    "timeYear": 1111,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1194,
+    "timeDay": 1088,
+    "timeWeek": 1089,
+    "timeMonth": 1170,
+    "timeYear": 1194,
+    "dailyMinutesDown": {
+      "2023-11-08": 18,
+      "2023-05-31": 16,
+      "2023-05-20": 56
+    }
   },
   {
     "name": "emoji2svg",
@@ -41,18 +48,45 @@
     "icon": "https://icons.duckduckgo.com/ip3/emoji2svg.deno.dev.ico",
     "slug": "emoji2svg",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.85%",
-    "time": 295,
-    "timeDay": 184,
-    "timeWeek": 509,
-    "timeMonth": 304,
-    "timeYear": 295,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
+    "time": 449,
+    "timeDay": 207,
+    "timeWeek": 280,
+    "timeMonth": 983,
+    "timeYear": 449,
     "dailyMinutesDown": {
+      "2023-06-25": 21,
+      "2023-05-23": 19,
       "2023-04-13": 70
+    }
+  },
+  {
+    "name": "blog",
+    "url": "https://comamoca.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/comamoca.dev.ico",
+    "slug": "blog",
+    "status": "up",
+    "uptime": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.02%",
+    "time": 151,
+    "timeDay": 94,
+    "timeWeek": 146,
+    "timeMonth": 148,
+    "timeYear": 151,
+    "dailyMinutesDown": {
+      "2023-10-30": 31,
+      "2023-05-28": 831,
+      "2023-05-27": 304,
+      "2023-05-10": 458,
+      "2023-05-09": 1440,
+      "2023-05-08": 140
     }
   }
 ]
