@@ -22,9 +22,6 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-> **Note**
-> The information provided on this status page **is unofficial.** > [Here](https://status.ablaze.one) is the official status page for the site, powered by Ablaze
-
 [**Visit our status website →**](https://Comamoca.github.io/status)
 
 ## 📄 License
