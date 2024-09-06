@@ -16,7 +16,7 @@
     "timeMonth": 125,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2024-09-06": 1095,
+      "2024-09-06": 1110,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -268,19 +268,19 @@
     "url": "https://emoji2svg.deno.dev",
     "icon": "https://icons.duckduckgo.com/ip3/emoji2svg.deno.dev.ico",
     "slug": "emoji2svg",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 522,
-    "timeDay": 1345,
-    "timeWeek": 1285,
-    "timeMonth": 646,
-    "timeYear": 582,
+    "timeDay": 1036,
+    "timeWeek": 1207,
+    "timeMonth": 640,
+    "timeYear": 581,
     "dailyMinutesDown": {
-      "2024-09-06": 0
+      "2024-09-06": 15
     }
   },
   {
