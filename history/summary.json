@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/149.comamoca.dev.ico",
     "slug": "area149",
     "status": "down",
-    "uptime": "7.79%",
+    "uptime": "7.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 206,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2025-01-11": 24,
+      "2025-01-11": 1366,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -388,7 +388,7 @@
     "url": "https://emoji2svg.deno.dev",
     "icon": "https://icons.duckduckgo.com/ip3/emoji2svg.deno.dev.ico",
     "slug": "emoji2svg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -400,6 +400,7 @@
     "timeMonth": 579,
     "timeYear": 592,
     "dailyMinutesDown": {
+      "2025-01-11": 0,
       "2024-12-27": 23,
       "2024-09-06": 15
     }
