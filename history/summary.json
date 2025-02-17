@@ -11,12 +11,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 190,
-    "timeDay": 110,
-    "timeWeek": 125,
-    "timeMonth": 240,
+    "timeDay": 115,
+    "timeWeek": 124,
+    "timeMonth": 241,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-02-16": 1089,
+      "2025-02-17": 26,
+      "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -379,8 +380,7 @@
       "2024-02-22": 1440,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
-      "2024-02-19": 1440,
-      "2024-02-18": 1440
+      "2024-02-19": 1440
     }
   },
   {
@@ -389,18 +389,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/emoji2svg.deno.dev.ico",
     "slug": "emoji2svg",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 617,
-    "timeDay": 7361,
-    "timeWeek": 2058,
-    "timeMonth": 860,
+    "time": 616,
+    "timeDay": 7487,
+    "timeWeek": 2055,
+    "timeMonth": 862,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-02-16": 11,
       "2024-12-27": 23,
       "2024-09-06": 15
     }
@@ -417,9 +416,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 130,
-    "timeWeek": 187,
-    "timeMonth": 194,
+    "timeDay": 163,
+    "timeWeek": 183,
+    "timeMonth": 193,
     "timeYear": 188,
     "dailyMinutesDown": {}
   }
