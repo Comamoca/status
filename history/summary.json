@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/149.comamoca.dev.ico",
     "slug": "area149",
     "status": "down",
-    "uptime": "5.86%",
+    "uptime": "5.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 145,
-    "timeDay": 199,
-    "timeWeek": 169,
-    "timeMonth": 170,
+    "timeDay": 129,
+    "timeWeek": 160,
+    "timeMonth": 169,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-05-23": 28,
+      "2025-05-24": 27,
+      "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
@@ -379,8 +380,7 @@
       "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
-      "2024-05-25": 1440,
-      "2024-05-24": 1440
+      "2024-05-25": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 580,
-    "timeDay": 286,
-    "timeWeek": 327,
-    "timeMonth": 419,
-    "timeYear": 581,
+    "timeDay": 303,
+    "timeWeek": 278,
+    "timeMonth": 423,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2024-12-27": 23,
       "2024-09-06": 15
@@ -416,9 +416,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 213,
-    "timeWeek": 207,
-    "timeMonth": 234,
+    "timeDay": 277,
+    "timeWeek": 211,
+    "timeMonth": 236,
     "timeYear": 223,
     "dailyMinutesDown": {}
   }
